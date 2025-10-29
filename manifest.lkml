@@ -9,5 +9,6 @@ application: dashboard_match {
     navigation: yes
     use_embeds: yes
     local_storage: yes
+    external_api_urls: ["https://generativelanguage.googleapis.com"]
   }
 }
