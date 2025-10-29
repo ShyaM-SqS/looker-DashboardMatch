@@ -9,6 +9,5 @@ application: dashboard_match {
     navigation: yes
     use_embeds: yes
     local_storage: yes
-    external_api_urls: ["https://localhost:8080/oauth2callback"]
   }
 }
